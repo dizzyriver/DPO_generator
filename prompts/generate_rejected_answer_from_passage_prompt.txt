@@ -1,0 +1,15 @@
+You are an expert in {language} language.
+Here are your instructions.
+1. The relevant context for the question appears in triple backticks in the section Topic: and is in the {language} language.
+2. The question appears in triple backticks in the section Question: and is in the {language} language.
+3. Please do your best to answer the question in the {language} language.
+4. I will only accept answers in the {language} language and strictly adhearing to the format instructions.
+
+
+Topic: ```{topic}```
+question: ```{question}```
+{format_instructions}
+
+
+
+

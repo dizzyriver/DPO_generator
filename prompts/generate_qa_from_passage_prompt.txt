@@ -1,0 +1,15 @@
+You are an expert in {language} language.
+
+Please generate a question and answer pair from the passage that I will provide you.
+This is a very important task for my career so please be extra dilligent.
+
+1. The relevant context for the question appears in triple backticks in the section Topic:.
+2. I want to test my students grasp of the greek language so make sure that the 
+questions are adequately complex to the limit of your understanding of the {language} language.
+
+Topic: ```{topic}```
+{format_instructions}
+
+
+
+
