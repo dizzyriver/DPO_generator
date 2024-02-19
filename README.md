@@ -1,0 +1,2 @@
+- Begginings of a project to fine tune Mistral 7B for increased capability in Greek
+- Currently Have implemented generation of question/answer pairs for training with direct prefeerence optimization.
